@@ -1,4 +1,4 @@
-# Prueba Técnica – Backend Node.js (Simplificada – 2 días)
+# Prueba Técnica – Backend Node.js
 
 ## 🎯 Objetivo
 Desarrollar una API REST para la gestión de **abogados** y **demandas** en un bufete.
